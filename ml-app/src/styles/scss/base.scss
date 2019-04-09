@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300');
+
+html,
+body {
+  font-family: Lato, "Helvetica Neue", sans-serif;
+}
+
+.triangle {
+  background: url('../../assets/img/bubble.svg') no-repeat;
+  background-size: contain;
+  height: 30px;
+}
